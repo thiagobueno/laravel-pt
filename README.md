@@ -1,6 +1,6 @@
-laravel-pt
+laravel4-pt
 ==========
 
-Tradução para o Português Brasil
+Tradução do Laravel 4 para o Português Brasil
 
 app/lang/pt
