@@ -19,4 +19,8 @@ return array(
 
 	"token"    => "Esse token de redefinição de senha é inválido.",
 
+	"sent"     => "Lembrete de senha enviada!",
+
+    "reset"    => "A senha foi redefinida!",
+
 );
